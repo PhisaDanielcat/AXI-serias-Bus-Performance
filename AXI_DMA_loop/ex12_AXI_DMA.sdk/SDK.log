@@ -1,0 +1,6 @@
+22:38:00 INFO  : Registering command handlers for SDK TCF services
+22:38:00 INFO  : Launching XSCT server: xsct.bat -interactive D:\VivadoCode\AXI_Stream_DMA\AXI_DMA_loop\ex12_AXI_DMA.sdk\temp_xsdb_launch_script.tcl
+22:38:02 INFO  : XSCT server has started successfully.
+22:38:02 INFO  : Successfully done setting XSCT server connection channel  
+22:38:05 INFO  : Successfully done setting SDK workspace  
+22:38:05 INFO  : Processing command line option -hwspec D:/VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/ex12_AXI_DMA.sdk/system_wrapper.hdf.

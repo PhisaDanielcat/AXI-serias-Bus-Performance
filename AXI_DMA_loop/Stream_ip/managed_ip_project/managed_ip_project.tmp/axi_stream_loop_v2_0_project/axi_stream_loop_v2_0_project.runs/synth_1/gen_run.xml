@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z020clg400-2" LaunchTime="1671805047">
+  <File Type="PA-TCL" Name="axi_stream_loop_v2_0.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="axi_stream_loop_v2_0_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="axi_stream_loop_v2_0_reports.tcl"/>
+  <File Type="RDS-RDS" Name="axi_stream_loop_v2_0.vds"/>
+  <File Type="RDS-UTIL" Name="axi_stream_loop_v2_0_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="axi_stream_loop_v2_0_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="axi_stream_loop_v2_0.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="axi_stream_loop_v2_0_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="axi_stream_loop_v2_0_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/hdl/axi_stream_loop_v2_0_M_AXIS.v">
+      <FileInfo>
+        <Attr Name="Library" Val=""/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/hdl/axi_stream_loop_v2_0_S_AXIS.v">
+      <FileInfo>
+        <Attr Name="Library" Val=""/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/hdl/axi_stream_loop_v2_0_ctrl_AXIlite.v">
+      <FileInfo>
+        <Attr Name="Library" Val=""/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/hdl/axi_stream_loop_v2_0.v">
+      <FileInfo>
+        <Attr Name="Library" Val=""/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/component.xml">
+      <FileInfo SFType="IPXACT"/>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="axi_stream_loop_v2_0"/>
+      <Option Name="TopRTLFile" Val="$PPRDIR/../../../../../../../VivadoCode/AXI_Stream_DMA/AXI_DMA_loop/Stream_ip/ip_repo/axi_stream_loop_2.0/hdl/axi_stream_loop_v2_0.v"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

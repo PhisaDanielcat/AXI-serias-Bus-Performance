@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="synth_1" LaunchDir="d:/vivadocode/axi_stream_dma/axi_dma_loop/stream_ip/managed_ip_project/managed_ip_project.tmp/axi_stream_loop_v2_0_project/axi_stream_loop_v2_0_project.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

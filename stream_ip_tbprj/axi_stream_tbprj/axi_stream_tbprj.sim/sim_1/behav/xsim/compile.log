@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoCode/AXI_Stream_DMA/stream_ip_tbprj/axi_stream_tbprj/axi_stream_tbprj.srcs/sources_1/new/axi_stream_loop_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_stream_loop_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoCode/AXI_Stream_DMA/stream_ip_tbprj/axi_stream_tbprj/axi_stream_tbprj.srcs/sources_1/new/axi_stream_loop_v1_0_M_AXI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_stream_loop_v1_0_M_AXI
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoCode/AXI_Stream_DMA/stream_ip_tbprj/axi_stream_tbprj/axi_stream_tbprj.srcs/sources_1/new/axi_stream_loop_v1_0_S_AXI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_stream_loop_v1_0_S_AXI
+WARNING: [VRFC 10-3380] identifier 'bit_num' is used before its declaration [D:/VivadoCode/AXI_Stream_DMA/stream_ip_tbprj/axi_stream_tbprj/axi_stream_tbprj.srcs/sources_1/new/axi_stream_loop_v1_0_S_AXI.v:37]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoCode/AXI_Stream_DMA/stream_ip_tbprj/axi_stream_tbprj/axi_stream_tbprj.srcs/sim_1/new/axi_loop_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_loop_tb

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Wed Sep 21 16:15:03 2022
+# Process ID: 11444
+# Current directory: D:/VivadoCode/RSDK/ex12_AXI_DMA/ex12_AXI_DMA.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: D:/VivadoCode/RSDK/ex12_AXI_DMA/ex12_AXI_DMA.sdk/webtalk/webtalk.log
+# Journal file: D:/VivadoCode/RSDK/ex12_AXI_DMA/ex12_AXI_DMA.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
