@@ -7,4 +7,4 @@
         3. AXI-Lite-master
         4. AXI-Lite-slave
         5. AXI-stream
-        1 and 2 completed, others Under Construction
+    1 and 2 completed, others Under Construction
